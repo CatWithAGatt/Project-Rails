@@ -1,2 +1,2 @@
 # Project-Rails
-Odin Project's Rails project / webdev 101
+Odin Project's Rails project / web-dev 101
